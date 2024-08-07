@@ -1,0 +1,10 @@
+# ninja log v6
+2	50	7447355761436168	CMakeFiles/PokemonSaveEditor.dir/main.c.obj	beb7e227cb12db54
+7	210	7447367203895131	build.ninja	e08d4f71139daeb7
+51	106	7447366646580445	PokemonSaveEditor.exe	f54d25e9fb1df8b2
+11	50	7447366646185398	CMakeFiles/PokemonSaveEditor.dir/gen1rw.c.obj	b2b57bcc8e380b7b
+1	184	7447367203895131	build.ninja	e08d4f71139daeb7
+3	43	7447391589284610	CMakeFiles/PokemonSaveEditor.dir/gen1rw.c.obj	b2b57bcc8e380b7b
+43	100	7447391589684615	PokemonSaveEditor.exe	f54d25e9fb1df8b2
+2	45	7447398542850282	CMakeFiles/PokemonSaveEditor.dir/gen1rw.c.obj	b2b57bcc8e380b7b
+45	98	7447398543270323	PokemonSaveEditor.exe	f54d25e9fb1df8b2

@@ -1,0 +1,3 @@
+C:/Users/Darcy/Documents/Git/GitHub/Pokemon-save-reader/cmake-build-debug/CMakeFiles/PokemonSaveEditor.dir
+C:/Users/Darcy/Documents/Git/GitHub/Pokemon-save-reader/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Darcy/Documents/Git/GitHub/Pokemon-save-reader/cmake-build-debug/CMakeFiles/rebuild_cache.dir
